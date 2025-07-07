@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>831</width>
-    <height>217</height>
+    <width>800</width>
+    <height>600</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>350</x>
-      <y>10</y>
+      <x>340</x>
+      <y>40</y>
       <width>80</width>
       <height>24</height>
      </rect>
@@ -30,8 +30,8 @@
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>350</x>
-      <y>30</y>
+      <x>340</x>
+      <y>20</y>
       <width>80</width>
       <height>24</height>
      </rect>
@@ -43,17 +43,14 @@
    <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
-      <x>350</x>
-      <y>70</y>
-      <width>75</width>
+      <x>340</x>
+      <y>60</y>
+      <width>80</width>
       <height>24</height>
      </rect>
     </property>
-    <property name="styleSheet">
-     <string notr="true"/>
-    </property>
     <property name="text">
-     <string>BRYAN</string>
+     <string>Insertalo</string>
     </property>
    </widget>
   </widget>
@@ -62,16 +59,10 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>831</width>
-     <height>22</height>
+     <width>800</width>
+     <height>21</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuMENU">
-    <property name="title">
-     <string>MENU</string>
-    </property>
-   </widget>
-   <addaction name="menuMENU"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
